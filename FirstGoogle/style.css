@@ -1,0 +1,35 @@
+body {
+    display: block;
+    margin: 8px;
+    text-align: center;
+}
+
+.container {
+    width: 1500px;
+    margin: auto;
+}
+
+.search-bar {
+    background-color: rgb(238, 238, 238);
+    margin: 0px;
+    padding: 0px;
+}
+
+.footer {
+    height: 65px;
+    margin-right: 2px;
+    margin-top: 2px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    float: left;
+    width: 394px;
+    background-color: rgb(126, 229, 218);
+    text-align: center;
+}
+
+.clear {
+    clear: both;
+}
+
+
+
